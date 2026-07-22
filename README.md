@@ -1,6 +1,6 @@
 # DREAM-High GitHub Pages Portfolio Template v2
 
-This template creates a simple student portfolio website for DREAM-High.
+This template creates a simple student portfolio website for DREAM-High..
 
 Students only edit `profile.js`.
 
