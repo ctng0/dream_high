@@ -38,8 +38,8 @@ const studentProfile = {
   */
   rpubs: [
     {
-      title: "Introduction to R",
-      url: "https://rpubs.com/"
+      title: "TCGA Clinical Data",
+      url: "https://rpubs.com/ctng/TCGA_clinical_data"
     },
     {
       title: "Finding Patterns with Heatmaps",
