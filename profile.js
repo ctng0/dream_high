@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hello! My name is Cindy Truong and I am a highschool student at Ramon C. Cortines School of Visual and Performing Arts. I am a visual artist who enjoys both 2D and 3D artworks! I am interested in mathematics. Within DREAM-High, I am to learn more about coding, cloud computing, and patient advocacy. This is my first time learning about computational biology.",
 
   /*
   Optional photo:
@@ -37,6 +37,14 @@ const studentProfile = {
   Each block needs a title and a url.
   */
   rpubs: [
+      {
+      title: "Cancer Cell Lines",
+      url: "https://rpubs.com/ctng/cell_lines_r"
+    },
+    {
+      title: "Heatmaps with TCGA Gene Expression",
+      url: "https://rpubs.com/ctng/tcga_heatmap"
+    },
     {
       title: "TCGA Clinical Data",
       url: "https://rpubs.com/ctng/TCGA_clinical_data"
