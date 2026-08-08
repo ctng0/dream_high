@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Hello! My name is Cindy Truong and I am a highschool student at Ramon C. Cortines School of Visual and Performing Arts. I am a visual artist who enjoys both 2D and 3D artworks! I am interested in mathematics. Within DREAM-High, I am to learn more about coding, cloud computing, and patient advocacy. This is my first time learning about computational biology.",
+  bio: "Hello! My name is Cindy Truong and I am a highschool student I am a visual artist who enjoys both 2D and 3D artworks! I am interested in mathematics. Within DREAM-High, I am to learn more about coding, cloud computing, and patient advocacy. This is my first time learning about computational biology.",
 
   /*
   Optional photo:
