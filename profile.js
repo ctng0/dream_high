@@ -62,8 +62,8 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
-    url: ""
+    description: "My final project focuses on combining clinical breast cancer data with art. I intend to demonstrate how the art piece communicates the data differently than a traditional graph would. I also explored how an art piece can make a certain feature of the data more impactful and push the significance of that feature. My main goal is to demonstrate how art made from data can change our understanding of a given data set and give it more depth.",
+    url: "https://docs.google.com/presentation/d/1l2gA4KJN5hIbTWp1zIiXMqyLRXVYCDgLjWh5BPPcBLQ/edit?slide=id.g3f6c519e4c6_0_772#slide=id.g3f6c519e4c6_0_772"
   },
 
   /*
